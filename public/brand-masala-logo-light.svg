@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" fill="none">
+  <!-- Brand Masala Original Logo (Dark on Light) -->
+  <text x="250" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="96" font-weight="900" letter-spacing="-3" fill="#111111">brand</text>
+  <g transform="translate(250, 205)">
+    <text x="-12" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="96" font-weight="900" letter-spacing="-3" fill="#FBAF18">masala</text>
+    <circle cx="152" cy="-14" r="14" fill="#FF4632" />
+  </g>
+  <text x="250" y="270" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" letter-spacing="9" fill="#111111">A BRAND CONSULTANCY FIRM</text>
+</svg>
